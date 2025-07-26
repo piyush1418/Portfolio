@@ -51,7 +51,7 @@ I'm a passionate Software Developer with a focus on **AI/ML, Full Stack Developm
 
 ## 📫 Contact Me
 
-- 📧 Email: piyushraj@email.com  
+- 📧 Email: piyushraj100101@email.com  
 - 🌐 Portfolio: [piyushraj.dev](https://yourportfolio.link)  
-- 💼 LinkedIn: [linkedin.com/in/piyushraj](https://linkedin.com/in/piyushraj)  
+- 💼 LinkedIn: [linkedin.com/in/piyushraj](www.linkedin.com/in/piyush-raj-ab2260260)  
 - 🐙 GitHub: [git]()
